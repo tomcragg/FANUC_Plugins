@@ -1,0 +1,10 @@
+FDE_R-2000 --> 172.20.34.101
+FDE_M-900 --> 172.20.34.201
+FDE_OfficeController_Ilias --> 172.27.34.159
+Roboguide --> 127.0.0.1
+BMW_HBM_Remote --> 10.148.143.36
+BMW_HBM_Tactile --> 10.148.143.53
+BMW_REG_MZ_IR001 --> 10.246.44.241
+BMW_REG_MZ_IR002 --> 10.246.44.242
+BMW_MUC_RL --> 10.249.132.10
+BMW_OfficeController_Heiner --> 172.27.34.48
